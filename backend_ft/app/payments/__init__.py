@@ -1,0 +1,1 @@
+from app.payments.models import RentPayment
